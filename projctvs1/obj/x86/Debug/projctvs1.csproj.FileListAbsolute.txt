@@ -1,0 +1,39 @@
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\bin\Debug\projctvs1.exe
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\bin\Debug\projctvs1.pdb
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.SplashScreen.resources
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.Properties.Resources.resources
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.exe
+c:\users\akira sim\documents\visual studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.pdb
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.LogIn.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.MainForm.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.AddStud.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.EditStud.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.DelStud.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.SearchBook.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.LogSplash.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.Notifier.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.AddLib.resources
+C:\Users\Akira Sim\Documents\Visual Studio 2010\Projects\projctvs1\projctvs1\obj\x86\Debug\projctvs1.hashTrial.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.exe
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.pdb
+C:\Users\CJ\Desktop\projctvs1\projctvs1\bin\Debug\projctvs1.exe
+C:\Users\CJ\Desktop\projctvs1\projctvs1\bin\Debug\projctvs1.pdb
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.AddLib.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.AddStud.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.DelStud.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.EditStud.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.hashTrial.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.LogIn.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.LogSplash.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.MainForm.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.Notifier.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.SearchBook.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.SplashScreen.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.Properties.Resources.resources
+C:\Users\CJ\Desktop\projctvs1\projctvs1\obj\x86\Debug\projctvs1.csproj.GenerateResource.Cache
+C:\Users\CJ\Desktop\projctvs1\projctvs1\bin\Debug\projctvs1.exe.config
+C:\Users\CJ\Desktop\projctvs1\projctvs1\bin\Debug\opencv_core2410.dll
+C:\Users\CJ\Desktop\projctvs1\projctvs1\bin\Debug\opencv_imgproc2410.dll
